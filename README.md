@@ -13,6 +13,6 @@ It just produces random answers so don't take it seriously
 Alan J. Perlis once said:
 >“A language that doesn't affect the way you think about programming is not worth knowing.
 
-Happy Coding!
+Happy Coding! :smiley:
 
-And don't forget to follow me on instagram at https://instagram.com/thegr8kabeer/
+And don't forget to follow me on [Twitter](https://twitter.com/thegr8kabeer)
